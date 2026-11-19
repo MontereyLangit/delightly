@@ -1,4 +1,6 @@
-Details: https://delight.rentalbbs.net/delight.html
+<!-- Details: https://delight.rentalbbs.net/delight.html -->
 
 # Lisence
 The license in the LICENSE.txt file applies, unless a separate license is listed in the source code.
+
+- fork: https://github.com/konkon-fox/delightly-v2fork
